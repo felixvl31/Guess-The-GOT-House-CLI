@@ -12,7 +12,7 @@ Command Line word guess game using the Game of Thrones houses!
 
 * You can choose to play between 1 & 22 houses
 * You have 10 tries for each house
-  *  To run the game type <node game>
+  *  To run the game type "node game"
    > ![song-this](Screenshots/game.png)
   *  You will have to select between 1 & 22 houses for the game
    >  ![concert-this](Screenshots/quantity.png)    
